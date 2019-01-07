@@ -6,4 +6,5 @@
 
 ## Java
 #### [语言的类型和缓存](https://github.com/huangchucai/BEE-blog/issues/3)
-#### [Java面向对象](https://github.com/huangchucai/BEE-blog/issues/4)
+#### [Java语法一](https://github.com/huangchucai/BEE-blog/issues/5)
+#### [Java语法二 -> 面向对象](https://github.com/huangchucai/BEE-blog/issues/4)
