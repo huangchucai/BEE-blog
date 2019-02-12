@@ -11,6 +11,7 @@
 
 ## Java源码
 #### [手动实现ArrayList](https://github.com/huangchucai/BEE-blog/issues/6)  
+#### [手动实现LinkedList](https://github.com/huangchucai/BEE-blog/issues/8)
 
 ## 数据结构
 #### [数据结构](https://github.com/huangchucai/BEE-blog/issues/7)
