@@ -16,3 +16,6 @@
 
 ## 数据结构
 #### [数据结构](https://github.com/huangchucai/BEE-blog/issues/7)
+
+## HTTP 
+#### [POST和PUT的区别](https://github.com/huangchucai/BEE-blog/issues/10)
